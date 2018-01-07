@@ -1,0 +1,25 @@
+{
+    "name": "electron-singlepage",
+    "version": "1.0.0",
+    "description": "Module to provide an electron wrapper for single page web apps",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/beast257/electron-singlepage.git"
+    },
+    "keywords": [
+        "electron"
+    ],
+    "author": "beast257",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/beast257/electron-singlepage/issues"
+    },
+    "homepage": "https://github.com/beast257/electron-singlepage#readme",
+    "devDependencies": {
+        "electron": "^1.7.10"
+    }
+}
