@@ -1,0 +1,22 @@
+{
+    "firstLoad": {
+        "path": "index.html",
+        "isFile": true,
+        "isRelative": true
+    },
+    "window": {
+        "minWidth": 200,
+        "minHeight": 200,
+        "backgroundColor": "#eee",
+        "title": "Electron SinglePage",
+        "autoHideMenuBar": true,
+        "webPreferences": {
+            "experimentalCanvasFeatures": true,
+            "backgroundThrottling": false
+        }
+    },
+    "development": {
+        "enabled": true,
+        "openDevToolsOnLaunch": true
+    }
+}

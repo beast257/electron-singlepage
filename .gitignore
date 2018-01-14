@@ -1,2 +1,4 @@
 # Dependency directories
 node_modules/
+# App configuration - can also be located in parent directory
+electron-config.json
