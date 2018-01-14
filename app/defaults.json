@@ -1,0 +1,15 @@
+{
+    "firstLoad": {
+        "path": "about:blank",
+        "isFile": false,
+        "isRelative": false
+    },
+    "window": {
+        "width": 800,
+        "height": 600
+    },
+    "development": {
+        "enabled": false,
+        "openDevToolsOnLaunch": false
+    }
+}
