@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/beast257/electron-singlepage#readme",
     "devDependencies": {
-        "electron": "^1.7.10",
+        "electron": "^1.8.2",
         "mout": "^1.1.0"
     }
 }
